@@ -1,1 +1,8 @@
-# esm206-lab4-par2-ck
+# My awesome ReadME
+- Some
+- bullet
+- points
+
+And other **useful info**
+
+*YAY*
